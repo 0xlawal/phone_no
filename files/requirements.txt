@@ -1,0 +1,23 @@
+# Phone Number Verification Libraries
+phonenumbers==8.13.40
+python-phonenumbers==8.13.40
+
+# API Requests
+requests==2.31.0
+httpx==0.25.2
+
+# Async Support
+aiohttp==3.9.1
+asyncio-contextmanager==1.0.0
+
+# Data Processing
+pandas==2.1.4
+pydantic==2.5.3
+
+# IP/Location Validation
+geoip2==4.7.0
+maxminddb==2.2.0
+
+# Utilities
+python-dotenv==1.0.0
+colorama==0.4.6
